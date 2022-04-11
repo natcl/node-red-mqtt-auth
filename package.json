@@ -1,0 +1,17 @@
+{
+  "name": "red-mqtt-auth",
+  "version": "0.1.0",
+  "description": "",
+  "main": "mqtt-auth.js",
+  "scripts": {
+    "start": "node-red -v -u .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "node-red": "^2.2.2",
+    "standard": "^16.0.4"
+  }
+}
